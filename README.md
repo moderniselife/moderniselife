@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on some cool projects and businesses.
 - 📫 How to reach me joe@modernise.life
 
-```
+```javascript
 let handles = [{
     "@moderniselife": "Primary Username",
     "@modernise.life": "Secondary Username",
