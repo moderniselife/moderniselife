@@ -8,7 +8,8 @@
 let handles = [{
     "@moderniselife": "Primary Username",
     "@modernise.life": "Secondary Username",
-    "@modernise_life": "Tertiary Username"
+    "@modernise_life": "Tertiary Username",
+    "@JosephShenton": "Quaternary Username"
 }];
 ```
 <!---
